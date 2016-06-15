@@ -7,6 +7,7 @@ public class user {
     private String name;
     private String passwd;
     private String token;
+    public static String haha_jiaonishanxiangmu_xiawulaiwobangongshiyitang;
 
     public String getPasswd() {
         return passwd;
