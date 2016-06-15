@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">niuPei</string>
+    <string name="forget_password"><u>忘记密码？</u></string>
+    <string name="register_now">还没有牛配账号？<u><font color="blue">立即注册</font></u></string>
+</resources>
